@@ -160,3 +160,4 @@ class WindFarmEnvPandapower:
         total_cost = (p_loss_mw * 10) + v_penalty + overload_penalty + switching_cost
         
         return -total_cost
+# 24/02/15 Init Env 
