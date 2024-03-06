@@ -162,3 +162,4 @@ class WindFarmEnvPandapower:
         return -total_cost
 # 24/02/15 Init Env 
 # 24/02/21 Refine Env 
+# 24/03/06 Fix reward 
