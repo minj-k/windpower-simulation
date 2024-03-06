@@ -180,3 +180,4 @@ class WindFarmEnvPandapower:
 # 24/06/05 Cleanup 
 # 24/06/28 Final doc 
 # 24/02/15 Init Env 
+# 24/03/06 Fix reward 
