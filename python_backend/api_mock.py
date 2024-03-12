@@ -31,3 +31,4 @@ if __name__ == '__main__':
     print("Agent Controller가 http://127.0.0.1:5000/wind_data 로 접속할 것입니다.")
     # Flask 라이브러리가 필요합니다. (pip install Flask)
     app.run(host='127.0.0.1', port=5000)
+# 24/03/12 Init API 
