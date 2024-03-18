@@ -32,3 +32,4 @@ if __name__ == '__main__':
     # Flask 라이브러리가 필요합니다. (pip install Flask)
     app.run(host='127.0.0.1', port=5000)
 # 24/03/12 Init API 
+# 24/03/18 Add data endpoint 
