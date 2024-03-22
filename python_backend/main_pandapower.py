@@ -159,3 +159,4 @@ if __name__ == "__main__":
 # 24/02/29 Add Replay 
 # 24/03/04 Add act 
 # 24/03/08 Start loop 
+# 24/03/22 Debug training 
