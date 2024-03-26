@@ -163,3 +163,4 @@ class WindFarmEnvPandapower:
 # 24/02/15 Init Env 
 # 24/02/21 Refine Env 
 # 24/03/06 Fix reward 
+# 24/03/26 Refactor env 
