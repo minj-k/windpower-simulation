@@ -116,3 +116,4 @@ if __name__ == "__main__":
 # 24/05/24 Add docs 
 # 24/03/13 Init Controller 
 # 24/03/20 Add API request 
+# 24/04/02 Add load model 
