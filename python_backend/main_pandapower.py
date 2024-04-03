@@ -161,3 +161,4 @@ if __name__ == "__main__":
 # 24/03/08 Start loop 
 # 24/03/22 Debug training 
 # 24/03/28 Refactor agent 
+# 24/04/03 Add save model 
