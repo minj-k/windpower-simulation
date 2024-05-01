@@ -164,3 +164,4 @@ if __name__ == "__main__":
 # 24/04/03 Add save model 
 # 24/04/15 Adjust params 
 # 24/04/25 Cleanup main 
+# 24/05/01 Adjust target update 
