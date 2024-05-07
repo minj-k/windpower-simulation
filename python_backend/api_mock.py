@@ -35,3 +35,4 @@ if __name__ == '__main__':
 # 24/03/18 Add data endpoint 
 # 24/04/05 Fix API data 
 # 24/04/19 Add docs 
+# 24/05/07 Update API random 
