@@ -166,3 +166,4 @@ class WindFarmEnvPandapower:
 # 24/03/26 Refactor env 
 # 24/04/11 Fix env step 
 # 24/04/29 Cleanup env 
+# 24/05/10 Fix state size 
