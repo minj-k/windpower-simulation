@@ -168,3 +168,4 @@ if __name__ == "__main__":
 # 24/05/15 Update training params 
 # 24/05/17 Add docs 
 # 24/05/28 Final check 
+# 24/06/13 Final fix 
