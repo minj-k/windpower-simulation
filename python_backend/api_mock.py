@@ -3,9 +3,6 @@ import numpy as np
 
 app = Flask(__name__)
 
-# 이 서버는 '실시간 풍황 데이터'를 흉내냅니다.
-# 실제 현장에서는 이 서버가 SCADA 시스템이나 데이터베이스에 연결됩니다.
-
 @app.route('/wind_data')
 def get_wind_data():
     """
