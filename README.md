@@ -9,3 +9,4 @@
 # 24/06/21 Update Readme 
 # 24/07/03 Readme update 
 # 24/07/25 Bump version 
+# 24/08/21 Update docs 
