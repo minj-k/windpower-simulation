@@ -189,3 +189,4 @@ class WindFarmEnvPandapower:
 # 24/06/05 Cleanup 
 # 24/06/28 Final doc 
 # 24/09/04 Refactor 
+# 24/10/16 Update env 
